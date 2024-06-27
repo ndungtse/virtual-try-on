@@ -177,7 +177,7 @@ while True:
             sign_image = cvzone.overlayPNG(sign_image, overlay_resize, [x, y])
             
             # Blink detection logic
-            if len(eyes) < 2:
+            if len(eyes) < 1:
                 count += 1
                 print(f"{count}: Blink Detected")
                 if count == 5:

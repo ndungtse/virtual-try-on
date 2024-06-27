@@ -1,2 +1,0 @@
-0 Ok_sign
-1 No_Sign

@@ -1,3 +1,4 @@
 *.jpg
 *.png
 *.DS_Store
+python_ml/models/gender_deploy.prototxt

@@ -1,0 +1,10 @@
+gender_net.caffemodel
+haarcascade_eye_tree_eyeglasses.xml
+haarcascade_eye.xml
+haarcascade_frontalface_default.xml
+keras_model.h5
+labels.txt
+opencv_face_detector_uint8.pb
+opencv_face_detector.pbtxt
+shape_predictor_68_face_landmarks.dat
+trained_lbph_face_recognizer_model.yml
